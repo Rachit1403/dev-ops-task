@@ -12,7 +12,7 @@ public class EmployeeController {
 
     @GetMapping("/getAllEmployees")
     ResponseEntity<EmployeeDto> getAllEmployees(){
-
+        return null;
     }
 
 
